@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Zubin\'s Edible Starter',
+    title: 'Zubin loves Starters. Especially edible ones.  ',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }

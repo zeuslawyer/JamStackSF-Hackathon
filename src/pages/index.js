@@ -10,7 +10,9 @@ const IndexPage = () => (
     </p>
     <p>
       I'm a relatively noob to dev, and it's so addictive that I've given up a pretty solid career to keep at it!
-      So, maybe see you in October!
+      So, maybe see you in October!  
+      <br/><br/> 
+      That means you too, Quincy, since your blog put me on to this!
     </p>
 
     <Link to="/page-2/">Go to page 2</Link>
